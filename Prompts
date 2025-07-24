@@ -91,3 +91,219 @@ UI theme: Clean, minimal, modern — blend of ULAB’s brand colors (blue, white
 Trustworthy, youthful, inclusive, and smart.
 
 Emphasizes community, security, and ease of use.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+We are building a modern social utility + networking app exclusively for ULAB students. The goal is to improve campus connectivity, solve real student problems, and modernize internal communication. The app connects to ULAB’s URMS system for secure login, auto-populated student data, course schedules, and official verification. The app functions like a closed social media + smart campus assistant.
+
+🎯 Core Concept: “Everything ULAB, one app.”
+
+🔒 Access: Only verified ULAB students, synced via URMS login.
+
+📱 SCREENS & FEATURES (with in-depth UI & functionality):
+1. 🔑 Onboarding/Login Screen
+URMS login screen with secure authentication.
+
+After login:
+
+Auto-import student name, ID, photo, courses, section, and email.
+
+Prompt to set profile picture, bio, select interests & privacy settings.
+
+Set visibility preferences (public/friends only), location sharing, etc.
+
+2. 🏠 Home Dashboard
+Dynamic cards showing:
+
+🟢 “Next Class” with room number & countdown timer.
+
+🪑 “Available Empty Rooms Now” – Based on current class occupancy across campus.
+
+📍 “Friends on Campus” (if location sharing is on).
+
+📢 “Upcoming Events” (university + club).
+
+Scrollable feed below these cards:
+
+Status updates from friends
+
+Club announcements
+
+Smart tips (e.g., “Best empty floor: Level 5, Science Building”)
+
+3. 📆 Class Schedule Page
+Auto-fetched timetable from URMS (with manual edit option).
+
+Weekly calendar view with color-coded blocks per course.
+
+“Who’s Free Now?” button: shows friends with overlapping breaks.
+
+Button to show:
+
+✅ List of currently vacant classrooms or labs (based on entire schedule database)
+
+📍 Tap room to view its location on a campus map
+
+4. 🤝 Club Hub Page
+Grid view of all clubs (with logos & category tags: arts, tech, sports, etc.)
+
+Each club card shows:
+
+Description, member count, faculty lead
+
+Join/Leave button
+
+Upcoming events
+
+Chat button for club members
+
+5. 📍 Live Friend Map (optional)
+Shows friends currently inside the campus (toggle location sharing required).
+
+Map view: Names appear near buildings where friends are.
+
+Green dot = available, red dot = in class
+
+Option to message or meet-up instantly
+
+6. 🚨 Emergency Hub
+Big red “EMERGENCY” button (sends SOS & live location to campus security + selected friends)
+
+Store emergency contacts
+
+Quick chat group opens with admins and nearby users
+
+Notification system for fire drills, lockdowns, or medical alerts
+
+7. 📢 Events & Official Posts
+Only admins, clubs, and faculty can post here
+
+Posts include:
+
+Title, description, date/time, venue
+
+RSVP button
+
+Add to calendar
+
+Push notifications for new posts (optional per user)
+
+8. 📝 Complaint Box
+Simple form:
+
+Choose Category (Maintenance / Harassment / Academic / Other)
+
+Write complaint (with image upload option)
+
+Submit anonymously toggle
+
+Handled by moderators (faculty/admin only)
+
+Students can track status (received / in review / resolved)
+
+9. 💬 Messaging Section
+Tabs:
+
+📥 Private Chats (between friends)
+
+👥 Course Groups (auto-created for each section)
+
+🎭 Club Chats
+
+Search bar for names, courses, or tags
+
+Emojis, files, images, and voice note support
+
+Mute or report users
+
+10. 🛡️ Campus Entry Security System (QR + Face Verification)
+At front gate:
+
+Student scans ID card QR code
+
+Real-time camera captures face → compares to URMS photo
+
+If face matches: ✅ Green tick shows
+
+If mismatch: ❌ Red alert for security to intervene
+
+Logs stored with time, date, ID, and photo
+
+Admin interface to view logs by day, ID, or suspicious entry
+
+11. 👤 My Profile Page
+Shows profile info from URMS + custom bio
+
+Courses, clubs joined, posts made, location toggle
+
+Friend list
+
+Settings:
+
+Privacy preferences
+
+Notification settings
+
+Club invites
+
+Report a bug
+
+🖌️ UI DESIGN STYLE GUIDE
+Layout: Card-based, modular, clean
+
+Colors: ULAB blue + soft greys, white backgrounds, pastel accents
+
+Icons: Rounded, minimal
+
+Navigation: Bottom bar with 5 tabs: Home | Schedule | Explore | Chat | Profile
+
+Animations: Subtle transitions (e.g., card expansion, fade-in friend map)
+
+Fonts: Sans-serif, clean and readable
+
+📣 Tone & Brand Voice:
+
+Smart, friendly, student-first
+
+Prioritizes trust, privacy, utility, and belonging
+
+Emphasis on solving real pain points and enhancing student freedom on campus
+
+🔗 Everything is seamlessly connected via ULAB’s URMS API and integrated into real-time systems (schedule, face ID, classroom data, etc.).
+
+
