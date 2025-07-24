@@ -1,1 +1,93 @@
+Propmts :
 
+We are building a closed-campus social media and utility app for ULAB students that connects to the URMS database and enhances student life, communication, and safety. The app is exclusive to verified ULAB students, with profiles populated via URMS (basic student info, courses, etc.). The app will help students feel more connected, solve common campus problems, and streamline day-to-day tasks.
+
+💡 Core Features & How They Work:
+
+Class Schedule Sync & Smart Match
+
+Students import their class schedules from URMS.
+
+The app intelligently matches timetables between friends (only visible to accepted friends).
+
+The system analyzes all class schedules to list available vacant classrooms, labs, and seminar rooms in real time — critical for finding space when the cafeteria/library is full.
+
+Club Management & Discovery
+
+Students can view, join, or leave clubs with a tap.
+
+Club profiles show activities, events, and member lists to promote transparency.
+
+Campus Proximity & Location Sharing
+
+Live friend location sharing (within campus only), visible only to friends.
+
+Privacy toggles allow users to turn it off anytime.
+
+Emergency Section
+
+A dedicated space for emergency contacts, mass SOS alerting, and coordination during crises.
+
+Includes real-time location sharing and quick-response tools.
+
+Events & Announcements (Official Only)
+
+Clubs, faculty, and university staff can post official event cards.
+
+Events include RSVP, reminders, and integration with personal calendar.
+
+Regular students cannot post here to maintain a formal space.
+
+Complaint Box & Moderation
+
+Digital complaint form to report issues to university authorities.
+
+Moderated by a verified panel of faculty/admin.
+
+Smart Messaging System
+
+Private chats between friends.
+
+Group chats auto-created for each course section, club, or campus event.
+
+Filters and notification settings to reduce noise.
+
+Campus Entry Security (Face-ID + QR)
+
+At the front gate, students scan their ID QR.
+
+A camera system captures their face in real-time and matches it with the URMS photo.
+
+If matched, a green tick is shown; otherwise, a red cross appears.
+
+All entries are logged with photo data for future verification if needed.
+
+Social Feed + Friend System
+
+Users can send/accept friend requests.
+
+A personal feed shows activity, events, and updates from friends & clubs.
+
+🎨 Professional UI/UX Design Suggestions:
+
+Onboarding Flow: Clean 3-step onboarding: (1) URMS login (2) auto-profile import (3) choose preferences (clubs, privacy, notifications).
+
+Home Tab: Modular feed — includes vacant room finder, today’s schedule, friend check-ins, club activities, and upcoming events.
+
+Schedule Tab: Calendar-style schedule, color-coded by course. Tap any time slot to see who else is free. “Find Empty Room” button with floor plan maps.
+
+Explore Tab: Clubs, events, and suggested connections. Easy “Join Club” button.
+
+Chat Tab: Tabs for Friends, Course Groups, Club Chats. Profile pictures + status indicators.
+
+Emergency Tab: Red quick access button, emergency contacts, and send location option.
+
+Entry Log Tab (for admin view): Filter by date, student, or flagged entry.
+
+UI theme: Clean, minimal, modern — blend of ULAB’s brand colors (blue, white, and soft greys), with smooth card layouts, round-corner elements, and bottom navigation.
+
+🎯 Target Tone & Branding:
+
+Trustworthy, youthful, inclusive, and smart.
+
+Emphasizes community, security, and ease of use.
