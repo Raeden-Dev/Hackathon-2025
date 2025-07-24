@@ -306,3 +306,183 @@ Emphasis on solving real pain points and enhancing student freedom on campus
 🔗 Everything is seamlessly connected via ULAB’s URMS API and integrated into real-time systems (schedule, face ID, classroom data, etc.).
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Create a visually eye-catching, professional, and engaging presentation deck for a hackathon.
+
+🎯 The project is ULAB Connect Hub – a closed social platform and campus utility app designed exclusively for students of ULAB (University of Liberal Arts Bangladesh). This app solves key campus problems using smart, social, and secure features.
+
+🔍 The presentation should be concise yet detailed enough to impress judges. Use a modern, tech-themed background, clean layouts, bold headings, and animated transitions to keep it visually engaging.
+
+🔧 Content to include in the deck (one section per slide):
+
+Cover Slide
+
+App Name: ULAB Connect Hub
+
+Tagline: "Everything ULAB, in one app."
+
+Team: Team Bamboo Warriors
+
+Featuring: Abu Huraira, Sadman Sakib, Saif Hasan Khan
+
+Problem Slide
+
+Lack of campus-wide connectivity
+
+Difficulty finding free spaces
+
+Inefficient club management
+
+Communication gaps during emergencies
+
+Security loopholes at campus entry
+
+Solution Overview
+
+A smart, all-in-one student platform
+
+Social networking with security & privacy
+
+Real-time vacant room finder
+
+Live friend map & emergency coordination
+
+Club & event discovery + secure gate access
+
+Feature Slides (break into multiple if needed)
+
+🔄 Schedule Sync + Room Finder
+
+Pulls data from URMS, matches class times with friends
+
+Lists available empty rooms across campus using live schedule analysis
+
+💬 Smart Chat & Course Groups
+
+Private messages, course-based groups, and club chat spaces
+
+📍 Live Location (Campus Only)
+
+Friends can see who's on campus (toggleable)
+
+🛑 Emergency Section
+
+Mass alerts, SOS, real-time location for crises
+
+🛂 QR + Face-ID Entry System
+
+Real-time face match with URMS data to verify gate entry
+
+🎓 Club System & Events
+
+Join/leave clubs easily, see upcoming events from official sources
+
+📥 Complaint Box
+
+Reports routed to verified admin moderators
+
+How It Works
+
+Login via URMS
+
+Auto-profile setup
+
+Dynamic home dashboard with real-time campus info
+
+Modular interface, clean UX, bottom nav bar
+
+Connected to URMS and secure CCTV face match API
+
+UI/UX Screens (Optional: Use Placeholders)
+
+Show mockups or concept views:
+
+Home screen with cards
+
+Class schedule
+
+Chat & club hub
+
+Event post viewer
+
+Emergency page
+
+Entry verification popup
+
+Impact Slide
+
+Increases student engagement
+
+Reduces idle time & space search stress
+
+Strengthens campus safety
+
+Builds a digital ULAB student community
+
+Tech Stack Slide
+
+URMS API Integration
+
+Custom backend for schedule parsing and room prediction
+
+Real-time location & face recognition systems
+
+Secure messaging + admin panel
+
+Team Slide
+
+Team Bamboo Warriors
+
+Abu Huraira
+
+Sadman Sakib
+
+Saif Hasan Khan
+
+Roles, contributions, and dedication to solving student-life challenges
+
+Closing Slide
+
+Thank you!
+
+Try it live: https://ulab-connect-hub.lovable.app
+
+“ULAB Connect Hub – Let’s build a smarter, safer campus together.”
+
